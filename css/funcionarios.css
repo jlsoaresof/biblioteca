@@ -43,7 +43,7 @@ nav .div-logo-name {
 nav .logo_name {
     font-size: 29px;
     font-weight: 600;
-    color: #00aaff;
+    color: green;
     transition: all 0.5s ease;
 }
 
@@ -107,7 +107,7 @@ nav .menu-items {
 }
 
 .nav-links li:hover {
-    border-left: 3px solid #00aaff;
+    border-left: 3px solid green;
     font-weight: bold;
     background-image: linear-gradient(to right, #181E22, #181E22, #2C383D) !important;
     background: transparent;
@@ -262,7 +262,7 @@ nav.close li a .link-name {
 }
 
 .actionimg .menu ul li:hover * {
-    color: #00aaff;
+    color: green;
 }
 
 .actionimg .menu ul li:hover a {
@@ -304,7 +304,7 @@ nav.close li a .link-name {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #0b3cc1;
+    background: green;
 }
 /*--------------fim----------------*/
 
@@ -331,7 +331,7 @@ nav.close li a .link-name {
 }
 
 .scroll::-webkit-scrollbar-thumb {
-    background-color: #0E4BF1;
+    background-color: green;
     border-radius: 6px;
 }
 

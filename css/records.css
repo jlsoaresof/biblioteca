@@ -3,13 +3,7 @@
     text-align: left;
 }
 
-.records th{
-    height: 50px;
-    background-color: var(--primary-color);
-    padding-left: 20px;
-    font-size: 1.2rem;
-    border-radius: 1px;
-}
+
 
 .records td{
     height: 50px;

@@ -17,7 +17,9 @@
 button.green{
     background-color: #13CE66;
 }
-
+button.greenb{
+    background-color: green;
+}
 button.red{
     background-color: #FF4949;
 }
